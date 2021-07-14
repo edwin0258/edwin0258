@@ -1,7 +1,7 @@
 ### Howdy y'all <img src="https://raw.githubusercontent.com/edwin0258/edwin0258/master/wave.gif" width="20px">
 
 <div style="display: inline-block;">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwin0258&show_icons=true&theme=dark&hide_border=true&border_radius=8&bg_color=161b22&include_all_commits=true&count_private=true" alt="Devin's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwin0258&show_icons=true&theme=dark&hide_border=true&line_height=24&border_radius=8&bg_color=161b22&include_all_commits=true&count_private=true" alt="Devin's GitHub Stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwin0258&layout=compact&&hide_border=true&theme=dark&bg_color=161b22&border_radius=8&langs_count=8" alt="Devin's GitHub Stats" />
 </div>
