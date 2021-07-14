@@ -1,6 +1,11 @@
-### Hi there 👋
+<!--### Hi there 👋
+
+⚡ Going to be working on more stuff soonish!-->
+
+![edwin0258's github stats](https://github-readme-stats.vercel.app/api?username=edwin0258&show_icons=true&theme=dark&hide_border=true&border_radius=8&bg_color=161b22&include_all_commits=true&count_private=true)
 
 <!--
+![edwin0258's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin0258&layout=compact&theme=dark&bg_color=161b22)
 **edwin0258/edwin0258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
